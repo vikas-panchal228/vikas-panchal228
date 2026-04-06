@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vikas Panchal</h1>
 <h3 align="center">Full Stack Developer | IoT Builder | React + ESP8266</h3>
 
@@ -10,64 +8,6 @@
 </p>
 
 ---
-## 🚀 About Me
-
-* 🎓 B.Tech CSE (2021–2025)
-* 🔧 Building **IoT + Web Apps (React + Firebase + ESP8266)**
-* 📊 Exploring **Data Analytics (Python, Power BI)**
-* 🎯 Goal: Software Engineer (Full Stack / IoT Systems)
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-JavaScript | Python | Java | C | C++
-
-### 🎨 Frontend
-
-React • Tailwind • Vite
-
-### ⚙️ Backend & Tools
-
-Firebase • MySQL • Arduino • APIs
-
-### 📊 Data
-
-Pandas • NumPy • Power BI • Tableau
-
----
-
-## 📌 Featured Projects
-
-### 🌦️ IoT Weather Station
-
-* ESP8266 + Sensors + Firebase
-* Real-time weather monitoring system
-* React frontend + API integration
-* Features:
-
-  * GPS Location
-  * AQI + Maps
-  * Historical Data
-
----
-
-### 🧾 Billing Software
-
-* Python Tkinter GUI
-* Invoice generation + data storage
-
----
-
-### 🏏 Gully Cricket Game
-
-* C-based simulation
-* Score tracking system
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -87,18 +27,77 @@ Pandas • NumPy • Power BI • Tableau
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)  
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)  
 
+## 🚀 About Me
+
+  * 🎓 B.Tech CSE (2021–2025)
+  * 🔧 Building **IoT + Web Apps (React + Firebase + ESP8266)**
+  * 📊 Exploring **Data Analytics (Python, Power BI)**
+  * 🎯 Goal: Software Engineer (Full Stack / IoT Systems)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+  JavaScript | Python | Java | C | C++
+
+### 🎨 Frontend
+
+  React • Tailwind • Vite
+
+### ⚙️ Backend & Tools
+
+  Firebase • MySQL • Arduino • APIs
+
+### 📊 Data
+
+  Pandas • NumPy • Power BI • Tableau
+
+---
+
+## 📌 Featured Projects
+
+### 🌦️ IoT Weather Station
+
+  * ESP8266 + Sensors + Firebase
+  * Real-time weather monitoring system
+  * React frontend + API integration
+  * Features:
+
+    * GPS Location
+    * AQI + Maps
+    * Historical Data
+
+---
+
+### 🧾 Billing Software
+
+  * Python Tkinter GUI
+  * Invoice generation + data storage
+
+---
+
+### 🏏 Gully Cricket Game
+
+  * C-based simulation
+  * Score tracking system
+
+---
+
+
 ---
 
 ## 🔗 Connect With Me
-
-* 📧 [panchavikas228@gmail.com](mailto:panchavikas228@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/vikas-panchal-157440223
-* 💻 GitHub: https://github.com/vikas-panchal228
+  
+  * 📧 [panchavikas228@gmail.com](mailto:panchavikas228@gmail.com)
+  * 💼 LinkedIn: https://www.linkedin.com/in/vikas-panchal-157440223
+  * 💻 GitHub: https://github.com/vikas-panchal228
 
 ---
 
 ## ⚡ Focus Areas
 
-* IoT Systems (ESP8266, Sensors)
-* Full Stack Development
-* Real-time Data Applications
+  * IoT Systems (ESP8266, Sensors)
+  * Full Stack Development
+  * Real-time Data Applications
