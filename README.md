@@ -9,7 +9,6 @@
 
 ---
 ## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikas-panchal228&show_icons=true&theme=tokyonight" />
 </p>
@@ -95,9 +94,3 @@
   * 💻 GitHub: https://github.com/vikas-panchal228
 
 ---
-
-## ⚡ Focus Areas
-
-  * IoT Systems (ESP8266, Sensors)
-  * Full Stack Development
-  * Real-time Data Applications
