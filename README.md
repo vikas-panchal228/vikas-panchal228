@@ -72,8 +72,20 @@ Pandas • NumPy • Power BI • Tableau
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikas-panchal228&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-panchal228&layout=compact&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vikas-panchal228&theme=tokyonight" />
+</p>
+
+## 🛠️ Tech Stack  
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)  
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)  
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)  
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)  
 
 ---
 
