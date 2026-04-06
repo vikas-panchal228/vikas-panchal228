@@ -10,6 +10,15 @@
 </p>
 
 ---
+🔥 Profile Views & Badges
+
+
+
+
+
+
+---
+
 
 ## 🚀 About Me
 
