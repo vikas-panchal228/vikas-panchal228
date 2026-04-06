@@ -10,16 +10,6 @@
 </p>
 
 ---
-🔥 Profile Views & Badges
-
-
-
-
-
-
----
-
-
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE (2021–2025)
@@ -62,8 +52,6 @@ Pandas • NumPy • Power BI • Tableau
   * AQI + Maps
   * Historical Data
 
-👉 *(Add your repo link here)*
-
 ---
 
 ### 🧾 Billing Software
@@ -71,16 +59,12 @@ Pandas • NumPy • Power BI • Tableau
 * Python Tkinter GUI
 * Invoice generation + data storage
 
-👉 *(Add repo link)*
-
 ---
 
 ### 🏏 Gully Cricket Game
 
 * C-based simulation
 * Score tracking system
-
-👉 *(Add repo link)*
 
 ---
 
