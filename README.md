@@ -1,12 +1,99 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Vikas Panchal</h1>
+<h3 align="center">Full Stack Developer | IoT Builder | React + ESP8266</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://github.com/vikas-panchal228">
+    <img src="https://komarev.com/ghpvc/?username=vikas-panchal228&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🎓 B.Tech CSE (2021–2025)
+* 🔧 Building **IoT + Web Apps (React + Firebase + ESP8266)**
+* 📊 Exploring **Data Analytics (Python, Power BI)**
+* 🎯 Goal: Software Engineer (Full Stack / IoT Systems)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+JavaScript | Python | Java | C | C++
+
+### 🎨 Frontend
+
+React • Tailwind • Vite
+
+### ⚙️ Backend & Tools
+
+Firebase • MySQL • Arduino • APIs
+
+### 📊 Data
+
+Pandas • NumPy • Power BI • Tableau
+
+---
+
+## 📌 Featured Projects
+
+### 🌦️ IoT Weather Station
+
+* ESP8266 + Sensors + Firebase
+* Real-time weather monitoring system
+* React frontend + API integration
+* Features:
+
+  * GPS Location
+  * AQI + Maps
+  * Historical Data
+
+👉 *(Add your repo link here)*
+
+---
+
+### 🧾 Billing Software
+
+* Python Tkinter GUI
+* Invoice generation + data storage
+
+👉 *(Add repo link)*
+
+---
+
+### 🏏 Gully Cricket Game
+
+* C-based simulation
+* Score tracking system
+
+👉 *(Add repo link)*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas-panchal228&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-panchal228&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+* 📧 [panchavikas228@gmail.com](mailto:panchavikas228@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/vikas-panchal-157440223
+* 💻 GitHub: https://github.com/vikas-panchal228
+
+---
+
+## ⚡ Focus Areas
+
+* IoT Systems (ESP8266, Sensors)
+* Full Stack Development
+* Real-time Data Applications
