@@ -11,13 +11,6 @@
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas-panchal228&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-panchal228&layout=compact&theme=tokyonight" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vikas-panchal228&theme=tokyonight" />
 </p>
