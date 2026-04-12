@@ -9,7 +9,7 @@
 
 ---
 ## 📈 GitHub Stats
-<div align="center">
+<div>
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vikas-panchal228&theme=tokyonight" />
