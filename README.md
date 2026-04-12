@@ -87,6 +87,5 @@
   
   * 📧 [panchavikas228@gmail.com](mailto:panchavikas228@gmail.com)
   * 💼 LinkedIn: https://www.linkedin.com/in/vikas-panchal-157440223
-  * 💻 GitHub: https://github.com/vikas-panchal228
 
 ---
