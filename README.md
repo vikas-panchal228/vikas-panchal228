@@ -43,7 +43,7 @@
 
 ### ⚙️ Backend & Tools
 
-  Firebase • MySQL • Arduino • APIs
+  Firebase • MySQL • APIs
 
 ### 📊 Data
 
